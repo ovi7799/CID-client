@@ -1,0 +1,89 @@
+@media screen and (max-width: 1200px) {
+    .mySwiper .swiper-button-prev {
+        left: 80%;
+    }
+
+    .loft-secttion-pic-para {
+        font-size: 22px;
+    }
+
+    .vous-section-para {
+        margin-top: 28%;
+    }
+    .vous-section-hadding {
+        font-size: 73px;
+    }
+    .vous-section-pic{
+        height: 270px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .cusine {
+        padding: 40px 15px;
+    }
+
+    .cusine-image {
+        width: 100%;
+    }
+
+    .mordern-img {
+        transform: translateY(10px);
+    }
+
+    .salon-banner-pic2 {
+        width: 30%;
+        height: 200px;
+        object-fit: cover;
+        margin-top: 14%;
+        margin-left: -20%;
+    }
+
+    .transform-banner-hadding {
+        color: var(--white-color);
+        position: absolute;
+        font-size: 70px;
+        z-index: 22;
+        margin-left: 2%;
+        margin-top: 1.5%;
+    }
+
+    .loft-secttion-box {
+        margin-top: 20%;
+    }
+
+    .loft-secttion-box-pic {
+        height: 230px;
+    }
+
+    .catalogue-pic {
+        width: 100%;
+    }
+
+    .vous-section-box {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .vous-section-box-width {
+        width: 100%;
+    }
+
+    .vous-section-hadding {
+        font-size: 48px;
+        margin-top: 26%;
+    }
+
+    .vous-section-para {
+        margin-top: 50%;
+    }
+
+    .vous-section-pic {
+        width: 58%;
+        height: 160px;
+    }
+
+    .vous-section-box-button {
+        margin-left: 27%;
+    }
+}
